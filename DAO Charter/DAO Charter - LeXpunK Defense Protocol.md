@@ -143,7 +143,7 @@ Each DAO Member (as the "***Representing DAO Member***") hereby represents and w
 
 (r) “**Person**” means any human, robot, bot, artificial intelligence, corporation, partnership, association or other individual or entity recognized as having the status of a person under the law.  
 
-(s) “**Token**” means a digital unit that is recognized by the Designated Client on the Designated Blockchain Network as capable of: (i) being uniquely associated with or “owned” by a particular public-key address on the Designated Blockchain Network at each particular block height; and (ii) having Transfers of such digital unit recorded on the Designated Blockchain. 
+(s) “**Token**” means a data object that is recognized by the Designated Client on the Designated Blockchain Network as capable of: (i) being uniquely associated with or “owned” by a particular public-key address on the Designated Blockchain Network at each particular block height; and (ii) having Transfers of such data object recorded on the Designated Blockchain. 
 
 (t) “**Transfer**” of a Token to a given address (the “***Receiving Address***”) on the Designated Blockchain Network will be deemed to have occurred if and only if it is recognized by the Designated Client on the Designated Blockchain Network that: (i) there has been duly transmitted to the Designated Blockchain Network a new transfer function transaction that:(A) provides for the reassociation of the Designated Token with the Receiving Address; and (B) is signed by a private key that is (or a group of private keys that together are) sufficient to authorize the execution of such transfer function; and (ii) such transaction has been Confirmed.  
 
